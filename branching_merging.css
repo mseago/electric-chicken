@@ -5,7 +5,30 @@
 }
 #opener {
 	width: 600px;
+	background-color: black;
+	padding: 10px;
 }
-#img {
+#opener h1 {
+	margin-top: 10px;
+	color: orange;
+}
+#opener h3{
+	margin-top: 10px;
+	color: red;
+}
+#opener p {
+	margin-top: 10px;
+	color: white;
+}
+#chicken_images {
+	width: 550px;
+	padding: 10px 10px 10px 60px;
+	vertical-align: top;
 	display: inline-block;
+	background-color: black;
+}
+.bawk {
+	width: 240px;
+	height: 240px;
+	border: 5px solid silver;
 }
